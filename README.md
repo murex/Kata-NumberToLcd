@@ -1,6 +1,6 @@
 # Number to LCD
 
-[![Kata Image](images/ColorLCD.jpg)](https://images.unsplash.com/photo-1556565681-306458ef93cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+[![Kata Image](images/DigitLedDisplay.png)](https://pixabay.com/illustrations/tm1637-4-digit-7-segment-display-4517661/)
 
 ## Description
 
@@ -21,13 +21,16 @@ __Note:__
   Part of the purpose of this kata is to make you practice refactoring
   and adapting to changing requirements.
 
+
 ### Description for Part 2
 
 Available [here](InstructionsPart2.md)
 
+
 ## Session Quick Retrospective
 
 You can fill it from [here](./QuickRetrospective.md)
+
 
 ## Useful Links
 
@@ -40,6 +43,7 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 ### General
 
 - Handy for any type of turn-based session: [Online Timer](https://agility.jahed.dev/)
+
 
 ## Session Information
 
