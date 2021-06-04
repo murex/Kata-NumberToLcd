@@ -42,6 +42,8 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 
 ### General
 
+
+- [TCR (Test && Commit || Revert) wrapper](tcr/TCR.md) utility
 - Handy for any type of turn-based session: [Online Timer](https://agility.jahed.dev/)
 
 
