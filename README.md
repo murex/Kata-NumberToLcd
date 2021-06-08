@@ -1,6 +1,7 @@
 # Number to LCD
 
-[![Kata Image](images/DigitLedDisplay.png)](https://pixabay.com/illustrations/tm1637-4-digit-7-segment-display-4517661/)
+![Kata Image](images/DigitLedDisplay.png) <br>
+Image by [kritsadaj](https://pixabay.com/fr/users/kritsadaj-1432068/) on [Pixabay](https://pixabay.com/fr/illustrations/tm1637-4-chiffres-7-segment-4517661/)
 
 ## Description
 
