@@ -27,11 +27,21 @@ __Note:__
 
 Available [here](InstructionsPart2.md)
 
+## Getting Started
+
+### Running the kata using TCR
+
+- [Java](./java/GETTING_STARTED_TCR.md)
+- [C++](./cpp/GETTING_STARTED_TCR.md)
+
+### Running the kata using a standard approach
+
+- [Java](./java/GETTING_STARTED.md)
+- [C++](./cpp/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
 You can fill it from [here](./QuickRetrospective.md)
-
 
 ## Useful Links
 
@@ -43,10 +53,8 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 
 ### General
 
-
 - [TCR (Test && Commit || Revert) wrapper](tcr/TCR.md) utility
 - Handy for any type of turn-based session: [Online Timer](https://agility.jahed.dev/)
-
 
 ## Session Information
 
@@ -56,14 +64,14 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 
 ### Topic
 
-Top-down TDD
+- Top-down TDD
 
 ### Focus Points
 
-* YAGNI
-* Switch to smaller tests for sub problems
-* Intentional programming
-* Teamwork
+- YAGNI
+- Switch to smaller tests for sub problems
+- Intentional programming
+- Teamwork
 
 ### Source Files
 
@@ -72,9 +80,9 @@ Top-down TDD
 
 ## License
 
-The `Kata-NumberToLcd` and the accompanying materials are made available
-under the terms of the MIT License ([here](LICENSE.md)) which accompanies this
-distribution, and is available at the Open Source site [here](https://opensource.org/licenses/MIT)
+`Kata-NumberToLcd` and the accompanying materials are made available
+under the terms of the [MIT License](./LICENSE.md) which accompanies this
+distribution, and is available at the [Open Source site](https://opensource.org/licenses/MIT)
 
 ## Acknowledgements
 
