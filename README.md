@@ -29,19 +29,12 @@ Available [here](InstructionsPart2.md)
 
 ## Getting Started
 
-### Running the kata using TCR
-
-- [Java](./java/GETTING_STARTED_TCR.md)
-- [C++](./cpp/GETTING_STARTED_TCR.md)
-
-### Running the kata using a standard approach
-
-- [Java](./java/GETTING_STARTED.md)
-- [C++](./cpp/GETTING_STARTED.md)
+- [Java](java/GETTING_STARTED.md)
+- [C++](cpp/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
-You can fill it from [here](./QuickRetrospective.md)
+You can fill it from [here](QuickRetrospective.md)
 
 ## Useful Links
 
@@ -60,7 +53,7 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 
 ### Style & Duration
 
-- 2-hour [Randori Kata](./doc/RandoriKata.md)
+- 2-hour [Randori Kata](doc/RandoriKata.md)
 
 ### Topic
 
@@ -75,18 +68,18 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 
 ### Source Files
 
-- [Java](./java)
-- [C++](./cpp)
+- [Java](java)
+- [C++](cpp)
 
 ## License
 
 `Kata-NumberToLcd` and the accompanying materials are made available
-under the terms of the [MIT License](./LICENSE.md) which accompanies this
+under the terms of the [MIT License](LICENSE.md) which accompanies this
 distribution, and is available at the [Open Source site](https://opensource.org/licenses/MIT)
 
 ## Acknowledgements
 
-See [ACKNOWLEDGEMENTS.md](./ACKNOWLEDGEMENTS.md) for more information.
+See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for more information.
 
 ## Contributors
 
