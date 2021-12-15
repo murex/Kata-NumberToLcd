@@ -1,7 +1,7 @@
 # Number to LCD
 
 ![Kata Image](images/DigitLedDisplay.png) <br>
-Image by [kritsadaj](https://pixabay.com/fr/users/kritsadaj-1432068/) on [Pixabay](https://pixabay.com/fr/illustrations/tm1637-4-chiffres-7-segment-4517661/)
+"[4 Digit 7 Segment Display](hhttps://pixabay.com/fr/illustrations/tm1637-4-chiffres-7-segment-4517661/)" by [kritsadaj](https://pixabay.com/fr/users/kritsadaj-1432068/) is licenced under [Pixabay License](https://pixabay.com/fr/service/license/)
 
 ## Description
 
