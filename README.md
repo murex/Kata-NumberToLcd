@@ -1,3 +1,9 @@
+[![Gradle](https://github.com/murex/Kata-NumberToLcd/actions/workflows/gradle.yml/badge.svg)](https://github.com/murex/Kata-NumberToLcd/actions/workflows/gradle.yml)
+[![Maven](https://github.com/murex/Kata-NumberToLcd/actions/workflows/maven.yml/badge.svg)](https://github.com/murex/Kata-NumberToLcd/actions/workflows/maven.yml)
+[![CMake](https://github.com/murex/Kata-NumberToLcd/actions/workflows/cmake.yml/badge.svg)](https://github.com/murex/Kata-NumberToLcd/actions/workflows/cmake.yml)
+[![Check Markdown links](https://github.com/murex/Kata-NumberToLcd/actions/workflows/markdown-link-check.yml/badge.svg)](https://github.com/murex/Kata-NumberToLcd/actions/workflows/markdown-link-check.yml)
+[![Add contributors](https://github.com/murex/Kata-NumberToLcd/actions/workflows/contributors.yml/badge.svg)](https://github.com/murex/Kata-NumberToLcd/actions/workflows/contributors.yml)
+
 # Number to LCD
 
 ![Kata Image](images/DigitLedDisplay.png) <br>
