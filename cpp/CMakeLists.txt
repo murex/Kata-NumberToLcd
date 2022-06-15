@@ -1,4 +1,4 @@
-# Copyright (c) 2021 Murex
+# Copyright (c) 2022 Murex
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -66,7 +66,10 @@ target_link_libraries(Kata-NumberToLcd-test
         Kata-NumberToLcd-shared
         gtest_main)
 
-add_test(NAME ctest-Kata-NumberToLcd COMMAND Kata-NumberToLcd-test)
+add_test(
+    NAME ctest-Kata-NumberToLcd
+    COMMAND Kata-NumberToLcd-test --gtest_brief=1 --gtest_output=xml:test-results/Kata-NumberToLcd-test.xml
+)
 
 add_custom_target(Docs
     SOURCES
