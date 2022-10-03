@@ -22,6 +22,6 @@ SOFTWARE.
 
 package lcd
 
-func doSomething() int {
-	return 42
+func convert(input int) string {
+	return ""
 }

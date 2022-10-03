@@ -28,5 +28,13 @@ import (
 )
 
 func Test_acceptance_test(t *testing.T) {
-	assert.Equal(t, 42, doSomething())
+	t.Skip("test currently disabled") // Comment or remove this line to enable this test case
+
+	input := 120120120
+	expected := "" +
+		"    _  _     _  _     _  _ \n" +
+		"  | _|| |  | _|| |  | _|| |\n" +
+		"  ||_ |_|  ||_ |_|  ||_ |_|\n"
+
+	assert.Equal(t, expected, convert(input))
 }
