@@ -55,7 +55,9 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 ### General
 
 - [TCR (Test && Commit || Revert) wrapper](tcr/TCR.md) utility
-- Handy for any type of turn-based session: [Online Timer](https://agility.jahed.dev/)
+- Collaborative timer for pairing or mobbing:
+  [mobti.me](https://mobti.me/)
+  or [agility timer](https://agility.jahed.dev/)
 
 ## Session Information
 
