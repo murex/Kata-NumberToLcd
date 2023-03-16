@@ -39,6 +39,7 @@ Available [here](InstructionsPart2.md)
 - [Java](java/GETTING_STARTED.md)
 - [C++](cpp/GETTING_STARTED.md)
 - [Go](go/GETTING_STARTED.md)
+- [Python](python/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
@@ -81,6 +82,7 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 - [Java](java)
 - [C++](cpp)
 - [Go](go)
+- [Python](python)
 
 ## License
 
