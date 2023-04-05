@@ -1,20 +1,16 @@
-import unittest
+import pytest
 
 from lcd.lcd import convert
 
 
-class LcdTest(unittest.TestCase):
+class TestLcd:
 
-    @unittest.skip("test currently disabled")  # Comment or remove this line to enable this test case
-    def test_acceptance_test(self):
+    @pytest.mark.skip(reason="test currently disabled")  # Comment or remove this line to enable this test case
+    def test_acceptance_test(self) -> None:
         value = 120120120
-        expected = [
+        expected = ''.join([
             "    _  _     _  _     _  _ \n",
             "  | _|| |  | _|| |  | _|| |\n",
             "  ||_ |_|  ||_ |_|  ||_ |_|\n",
-        ]
-        self.assertEqual(''.join(expected), convert(value))
-
-
-if __name__ == "__main__":
-    unittest.main()
+        ])
+        assert (expected == convert(value))
