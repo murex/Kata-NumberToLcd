@@ -41,6 +41,7 @@ Available [here](InstructionsPart2.md)
 - [C++](cpp/GETTING_STARTED.md)
 - [Go](go/GETTING_STARTED.md)
 - [Python](python/GETTING_STARTED.md)
+- [Typescript](typescript/GETTING_STARTED.md)
 
 ## Session Quick Retrospective
 
@@ -84,6 +85,7 @@ We slightly adjusted requirements in part 2 in order to make it more feasible in
 - [C++](cpp)
 - [Go](go)
 - [Python](python)
+- [Typescript](typescript)
 
 ## License
 
