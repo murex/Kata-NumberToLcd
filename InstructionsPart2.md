@@ -23,13 +23,13 @@ Add the below acceptance test to your list of test cases.
 ````java
 @Test
 public void acceptance_test_scaling() {
-    int input = 1234567890;
+    int input = 120;
     String expected
-            = "      ___  ___       ___  ___  ___  ___  ___  ___ \n"
-            + "    |    |    ||   ||    |        ||   ||   ||   |\n"
-            + "    | ___| ___||___||___ |___     ||___||___||   |\n"
-            + "    ||        |    |    ||   |    ||   |    ||   |\n"
-            + "    ||___  ___|    | ___||___|    ||___| ___||___|\n";
+            = "      ___  ___ \n"
+            + "    |    ||   |\n"
+            + "    | ___||   |\n"
+            + "    ||    |   |\n"
+            + "    ||___ |___|\n";
     assertEquals(expected, Lcd.convert(input, 3, 2));
 }
 ````
@@ -40,11 +40,11 @@ public void acceptance_test_scaling() {
 TEST(Lcd, acceptance_test_scaling)
 {
         const auto expected =
-        "      ___  ___       ___  ___  ___  ___  ___  ___ \n"
-        "    |    |    ||   ||    |        ||   ||   ||   |\n"
-        "    | ___| ___||___||___ |___     ||___||___||   |\n"
-        "    ||        |    |    ||   |    ||   |    ||   |\n"
-        "    ||___  ___|    | ___||___|    ||___| ___||___|\n";
-        EXPECT_EQ(expected, lcdConvert(1234567890, 3, 2));
+        "      ___  ___ \n"
+        "    |    ||   |\n"
+        "    | ___||   |\n"
+        "    ||    |   |\n"
+        "    ||___ |___|\n";
+        EXPECT_EQ(expected, lcdConvert(120, 3, 2));
 }
 ````
