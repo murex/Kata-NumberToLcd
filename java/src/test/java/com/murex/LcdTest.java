@@ -26,10 +26,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-public class LcdTest {
+class LcdTest {
     @Disabled
     @Test
-    public void acceptance_test() {
+    void acceptance_test() {
         int input = 120120120;
         String expected
             = "    _  _     _  _     _  _ \n"
