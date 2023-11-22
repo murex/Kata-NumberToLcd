@@ -25,7 +25,7 @@ dependencies {
 
     // ApprovalTests (for Golden Master tests)
     // Uncomment if the kata is using it. Remove otherwise
-    // testImplementation group: 'com.approvaltests', name: 'approvaltests', version: '22.3.1'
+    // testImplementation group: 'com.approvaltests', name: 'approvaltests', version: '22.3.2'
 
     // Gson parser
     // Uncomment if the kata is using it. Remove otherwise
