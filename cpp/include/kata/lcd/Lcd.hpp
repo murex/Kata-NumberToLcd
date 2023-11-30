@@ -24,15 +24,9 @@ SOFTWARE.
 #include <kata/lcd/config.hpp>
 #include <string>
 
-namespace com {
-namespace murex {
-namespace kata {
-namespace lcd {
+namespace com::murex::kata::lcd
+{
 
-LCD_API std::string lcdConvert(unsigned int number);
+   LCD_API std::string lcdConvert(unsigned int number);
 
-} // namespace lcd
-} // namespace kata
-} // namespace murex
-} // namespace com
-
+} // namespace com::murex::kata::lcd

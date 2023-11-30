@@ -23,18 +23,12 @@ SOFTWARE.
 
 #include <kata/lcd/Lcd.hpp>
 
-namespace com {
-namespace murex {
-namespace kata {
-namespace lcd {
-
-std::string lcdConvert(unsigned int number)
+namespace com::murex::kata::lcd
 {
-	return "";
-}
 
-} // namespace lcd
-} // namespace kata
-} // namespace murex
-} // namespace com
+   std::string lcdConvert(unsigned int number)
+   {
+      return "";
+   }
 
+} // namespace com::murex::kata::lcd
