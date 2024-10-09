@@ -16,20 +16,8 @@ repositories {
 
 dependencies {
     // JUnit 5
-    testImplementation("org.junit.jupiter:junit-jupiter:5.11.0")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.11.2")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
-
-    // Mockito Core
-    // Uncomment if the kata is using it. Remove otherwise
-    //testImplementation group: 'org.mockito', name: 'mockito-core', version: '4.3.1'
-
-    // ApprovalTests (for Golden Master tests)
-    // Uncomment if the kata is using it. Remove otherwise
-    // testImplementation group: 'com.approvaltests', name: 'approvaltests', version: '24.6.0'
-
-    // Gson parser
-    // Uncomment if the kata is using it. Remove otherwise
-    // implementation group: 'com.google.code.gson', name: 'gson', version: '2.11.0'
 
     // Guava utility package
     implementation group: 'com.google.guava', name: 'guava', version: '33.3.1-jre'
