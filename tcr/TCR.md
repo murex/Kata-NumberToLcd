@@ -89,7 +89,7 @@ After starting the script, you will see a menu that looks like the following:
 [TCR] Loading configuration: (...)
 [TCR] Loading toolchains configuration
 [TCR] Loading languages configuration
-[TCR] Starting TCR version 1.3.0...
+[TCR] Starting TCR version 1.4.0...
 [TCR] Base directory is (...)
 [TCR] Found 1 source and 1 test file(s) for java language
 [TCR] Work directory is (...)
